@@ -1,103 +1,112 @@
 {
-    "Documentation": [
+"Documentation": [
     "Microsoft Office 365": "A suite of cloud-based productivity and collaboration applications that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, and others) into a cloud service.",
     "Microsoft OneNote for Business": "A digital notebook for capturing, storing, and sharing all kinds of information, optimized for business and team collaboration.",
     "Microsoft SharePoint": "A web-based collaborative platform that integrates with Microsoft Office, primarily used for document storage and management, and team collaboration.",
     "Microsoft Stream": "An enterprise video service where people in an organization can upload, view, and share videos securely.",
     "Microsoft Visio": "A diagramming and vector graphics application that helps in creating complex diagrams like flowcharts, organizational charts, and floor plans."
     ],
-    "Project Management": [
+"Project Management": [
     "Microsoft Project": "A project management software designed to assist project managers in developing plans, assigning resources to tasks, tracking progress, managing budgets, and analyzing workloads.",
     "Microsoft Planner": "A task management tool that allows users to create, assign, and organize tasks, set due dates, and update statuses, ideal for team collaboration and project planning.",
     "Azure DevOps": "Provides a range of tools for software development teams to plan work, collaborate on code development, and build and deploy applications.",
     "Microsoft Lists": "An information tracking app in Microsoft 365 that helps users create, share, and track information and tasks with customizable lists."
     ],
-    "Frontend": [
+"Frontend": [
     "Microsoft Visual Studio": "An integrated development environment (IDE) from Microsoft, used for developing computer programs, as well as websites, web apps, web services, and mobile apps.",
     "Microsoft PowerApps": "A suite that allows users to build custom business apps that connect to business data stored in the underlying data platform (Microsoft Dataverse) or in various online and on-premises data sources.",
     "Visual Studio Code": "A free, lightweight, open-source code editor from Microsoft that runs on Windows, Linux, and macOS, supporting debugging, syntax highlighting, intelligent code completion, snippets, and code refactoring.",
     "Microsoft FrontPage": "A discontinued WYSIWYG HTML editor and website administration tool from Microsoft for the Microsoft Windows line of operating systems."
 
     ],
-    "Backend": [
-        "Microsoft Azure Functions",
-        "Microsoft Power Automate",
-        "Azure Logic Apps",
-        "Windows Communication Foundation"
+"Backend": [
+    "Microsoft Azure Functions": "A serverless compute service that lets you run event-triggered code without having to explicitly provision or manage infrastructure.",
+    "Microsoft Power Automate": "A service that helps to create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data, and more.",
+    "Azure Logic Apps": "A cloud service that helps you schedule, automate, and orchestrate tasks, business processes, and workflows when you need to integrate apps, data, systems, and services across enterprises or organizations.",
+    "Windows Communication Foundation": "A framework for building service-oriented applications that enables developers to build secure, reliable, transacted solutions that integrate across platforms and interoperate with existing investments."
     ],
-    "Database": [
-        "Microsoft SQL Server",
-        "Azure SQL Database",
-        "Microsoft Azure Synapse Analytics",
-        "Azure Cosmos DB"
+"Database": [
+    "Microsoft SQL Server": "A relational database management system developed by Microsoft, offering a variety of tools for data storage, management, analysis, and business intelligence.",
+    "Azure SQL Database": "A fully managed cloud database provided as part of Microsoft Azure that offers a scalable, multi-model database service for app developers.",
+    "Microsoft Azure Synapse Analytics": "An analytics service bringing together enterprise data warehousing and Big Data analytics, offering a unified experience to ingest, prepare, manage, and serve data for immediate BI and machine learning needs.",
+    "Azure Cosmos DB": "A globally distributed, multi-model database service for any scale, designed for high availability, consistency, and low latency, supporting various APIs including SQL, MongoDB, Cassandra, and Gremlin."
+
     ],
-    "Content": [
-        "Microsoft SharePoint",
-        "Microsoft Yammer",
-        "Microsoft Teams",
-        "Microsoft Sway"
+"Content": [
+    "Microsoft SharePoint": "A web-based collaborative platform that integrates with Microsoft Office, widely used for document management, storage, and team collaboration.",
+    "Microsoft Yammer": "An enterprise social networking service designed for private communication within organizations or between organizational members and pre-designated groups.",
+    "Microsoft Teams": "A unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage, and application integration.",
+    "Microsoft Sway": "A presentation program and a part of the Microsoft Office family of products, providing interactive web-based reports, presentations, newsletters, and more."
+
     ],
-    "Testing": [
-        "Microsoft Visual Studio",
-        "Azure Test Plans",
-        "Microsoft Test Manager"
+"Testing": [
+    "Microsoft Visual Studio": "An integrated development environment (IDE) from Microsoft for developing computer programs, web sites, web apps, web services, and mobile apps in various programming languages.",
+    "Azure Test Plans": "A service within Azure DevOps that provides a suite of manual and exploratory testing tools for testing applications and solutions.",
+    "Microsoft Test Manager": "A tool that was part of Microsoft Test Professional and was used for managing and executing test cases for software applications. Note: Microsoft Test Manager has been deprecated and its functionalities are now part of Azure Test Plans."
+
     ],
-    "Server": [
-        "Windows Server",
-        "Microsoft Azure",
-        "Azure Kubernetes Service (AKS)",
-        "Microsoft Windows Virtual Desktop",
-        "Microsoft BizTalk Server"
+"Server": [
+    "Windows Server": "A series of enterprise-class server operating systems designed to share services with multiple users and provide extensive administrative control of data storage, applications, and corporate networks.",
+    "Microsoft Azure": "Microsoft's cloud computing service, offering a wide range of cloud services including computing, analytics, storage, and networking for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.",
+    "Azure Kubernetes Service (AKS)": "A managed container orchestration service, based on Kubernetes, that simplifies the deployment, management, and operations of Kubernetes clusters in the Azure cloud.",
+    "Microsoft Windows Virtual Desktop": "A cloud-based desktop and app virtualization service that runs on the cloud, enabling users to access virtual desktops and applications remotely.",
+    "Microsoft BizTalk Server": "An Inter-Organizational Middleware System that enables companies to automate business processes, through the use of adapters which are tailored to communicate with different software systems used in an enterprise."
+
     ],
-    "Deployment": [
-        "Azure DevOps",
-        "Azure App Service",
-        "Microsoft Endpoint Manager",
-        "Azure Resource Manager"
+"Deployment": [
+    "Azure DevOps": "A suite of development tools provided by Microsoft Azure to support software development teams with services for collaboration, reporting, tracking work progress, source control, and building and deploying applications.",
+    "Azure App Service": "A fully managed platform for building, deploying, and scaling web apps with support for multiple languages and frameworks, integrated development tools, and managed connectivity to Azure services.",
+    "Microsoft Endpoint Manager": "A unified management platform that combines services such as Microsoft Intune and Configuration Manager to provide centralized management of all your endpoints, including mobile devices and desktops.",
+    "Azure Resource Manager": "A deployment and management service within Azure that provides a management layer enabling users to create, update, and delete resources in their Azure account, organizing resources and enforcing standards."
     ],
-    "Maintenance": [
-        "Microsoft System Center",
-        "Azure Monitor",
-        "Microsoft Endpoint Manager",
-        "Windows Admin Center"
+"Maintenance": [
+    "Microsoft System Center": "A suite of systems management products that offers tools for managing data center resources, private clouds, and IT services, helping to provide a unified management experience across on-premises and cloud environments.",
+    "Azure Monitor": "A comprehensive solution within Microsoft Azure for collecting, analyzing, and acting on telemetry from cloud and on-premises environments, helping to maximize the performance and availability of applications.",
+    "Microsoft Endpoint Manager": "A unified management platform that combines services such as Microsoft Intune and Configuration Manager, providing centralized management of all endpoints, including mobile devices, laptops, and desktops.",
+    "Windows Admin Center": "A lightweight, browser-based application for managing servers, clusters, hyper-converged infrastructure, and Windows 10 PCs, offering a modernized, simplified, integrated, and secure remote management experience."
     ],
-    "Security": [
-        "Microsoft Defender for Endpoint",
-        "Azure Active Directory",
-        "Microsoft Cloud App Security",
-        "Azure Sentinel",
-        "Microsoft Identity Manager"
+"Security": [
+    "Microsoft Defender for Endpoint": "An enterprise-grade platform to help protect networks and devices against cyber threats, providing preventative protection, post-breach detection, automated investigation, and response capabilities.",
+    "Azure Active Directory": "A cloud-based identity and access management service from Microsoft, providing a range of capabilities including single sign-on, multi-factor authentication, and application management.",
+    "Microsoft Cloud App Security": "A Cloud Access Security Broker (CASB) that provides visibility and control over data and apps in the cloud, enabling advanced threat protection and data security across Microsoft and third-party cloud services.",
+    "Azure Sentinel": "A scalable, cloud-native Security Information and Event Management (SIEM) and Security Orchestration Automated Response (SOAR) solution that delivers intelligent security analytics and threat intelligence across an enterprise.",
+    "Microsoft Identity Manager": "An identity management solution that helps manage the users, credentials, policies, and access within an organization, facilitating secure identity management and synchronization."
+
     ],
-    "Automation": [
-        "Microsoft Power Automate",
-        "Azure Logic Apps",
-        "Microsoft Azure Automation",
-        "Azure Automation"
+"Automation": [
+    "Microsoft Power Automate": "A service that helps to create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data, and more, enhancing productivity by automating repetitive tasks.",
+    "Azure Logic Apps": "A cloud service that helps you schedule, automate, and orchestrate tasks, business processes, and workflows when you need to integrate apps, data, systems, and services across enterprises or organizations.",
+    "Microsoft Azure Automation": "A cloud-based automation service that helps with the deployment, configuration, and management of resources in Azure and across external systems, providing automation of frequent, time-consuming, and error-prone cloud management tasks.",
+    "Azure Automation": "A service within Microsoft Azure that provides automation capabilities for managing cloud and on-premises environments, offering tools for automating complex and repetitive tasks to improve efficiency and reliability."
     ],
-    "Sales": [
-        "Microsoft Dynamics 365 for Sales",
-        "LinkedIn Sales Navigator",
-        "Microsoft Dynamics CRM"
+"Sales": [
+    "Microsoft Dynamics 365 for Sales": "An adaptive selling solution that helps sales teams navigate the realities of modern selling, providing insights to drive personalized engagement and proactive decision-making.",
+    "LinkedIn Sales Navigator": "A sales management tool designed to help sales professionals build and nurture customer relationships on the LinkedIn platform, offering advanced search capabilities and personalized algorithms to reach the right decision makers.",
+    "Microsoft Dynamics CRM": "An earlier version of Microsoft's customer relationship management software, designed to help businesses manage customer data, streamline processes, and improve customer relationships, now evolved into Dynamics 365."
+
     ],
-    "Marketing": [
-        "Microsoft Dynamics 365 Marketing",
-        "LinkedIn Marketing Solutions",
-        "Microsoft Advertising"
+"Marketing": [
+    "Microsoft Dynamics 365 Marketing": "An integrated marketing tool within the Dynamics 365 suite that helps organizations create and track campaigns, nurture leads, and drive sales through personalized customer experiences and insights.",
+    "LinkedIn Marketing Solutions": "A platform offering a range of tools for marketers to target, reach, and engage with audiences on LinkedIn through various forms of advertising and content marketing strategies.",
+    "Microsoft Advertising": "Formerly known as Bing Ads, this is a service that provides pay-per-click advertising on both the Bing and Yahoo! search engines, helping businesses reach a wide audience and drive traffic to their websites."
+
     ],
-    "Backup": [
-        "Azure Backup",
-        "Microsoft System Center Data Protection Manager",
-        "Azure Site Recovery"
+"Backup": [
+    "Azure Backup": "A cloud-based backup solution that provides simple, secure, and cost-effective solutions to back up your data and recover it from the Microsoft Azure cloud.",
+    "Microsoft System Center Data Protection Manager": "A part of the Microsoft System Center suite, it provides continuous data protection and data recovery management for Windows servers and clients.",
+    "Azure Site Recovery": "A disaster recovery service that keeps business apps and workloads running during outages by orchestrating replication, failover, and recovery of virtual machines and physical servers."
+
     ],
-    "API": [
-        "Azure API Management",
-        "Microsoft Power Automate (for API-based integrations)",
-        "Microsoft Graph"
+"API": [
+    "Azure API Management": "A turnkey solution for publishing APIs to external and internal customers, providing secure and scalable access, with tools to manage, monitor, and analyze the APIs.",
+    "Microsoft Power Automate (for API-based integrations)": "Part of the Power Automate service, this feature allows for the creation of automated workflows that integrate with various APIs to connect different services and applications.",
+    "Microsoft Graph": "A developer platform that connects multiple services and devices through a unified API endpoint, enabling access to data, intelligence, and insights coming from the Microsoft Cloud."
     ],
-    "Apps": [
-        "Microsoft AppSource (for finding and trying apps)",
-        "Microsoft Teams Apps",
-        "Windows Store for Business"
+"Apps": [
+    "Microsoft AppSource": "A marketplace for business users to find and try line-of-business SaaS apps from Microsoft and its partners, tailored to enhance and extend the functionality of Microsoft's existing business solutions.",
+    "Microsoft Teams Apps": "A collection of apps and services integrated within Microsoft Teams, enhancing productivity and collaboration by bringing additional functionalities like project management, analytics, and more directly into the Teams environment.",
+    "Windows Store for Business": "A version of the Microsoft Store that is specifically tailored for enterprise environments, allowing organizations to find, acquire, manage, and distribute apps to Windows 10 devices across their workforce."
+
     ],
 "Service Provider Company": [
     "Microsoft Consulting Services": "A professional service offering from Microsoft that provides strategic guidance and technology expertise to help organizations achieve their business goals and digital transformation objectives.",
