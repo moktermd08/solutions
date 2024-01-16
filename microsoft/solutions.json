@@ -156,27 +156,25 @@
     "Microsoft Band": "A smart band with fitness tracking and smartwatch capabilities developed by Microsoft, featuring heart rate monitoring, GPS, and integration with various health and fitness apps. (Note: The Microsoft Band was discontinued.)"
 
 ],
-    {
-    "Domain": {
+"Domain": [
         "Azure Active Directory": "A cloud-based identity and access management service.",
         "Microsoft DNS": "Domain Name System services as part of Windows Server.",
         "Azure Domain Services": "Provides managed domain services like domain join, group policy, LDAP, Kerberos/NTLM authentication.",
         "Microsoft Identity Manager": "Manages user identities and credentials."
-    },
-    "Performance": {
+],
+"Performance": [
         "Azure Monitor": "Comprehensive solutions for collecting, analyzing, and acting on telemetry from cloud and on-premises environments.",
         "System Center Operations Manager": "Monitors the health and performance of server infrastructure.",
         "Windows Performance Monitor": "A tool that measures the performance of a Windows system.",
         "Azure Application Insights": "An extensible Application Performance Management (APM) service for web developers."
-    },
-    "Communication": {
+],
+"Communication": 
         "Microsoft Teams": "An all-in-one communication platform integrating chat, voice, and video conferencing.",
         "Outlook": "Primarily for email communications, includes calendar and task management.",
         "Skype for Business": "Integrated into Microsoft Teams for audio and video calls, chat, and conferencing.",
         "Yammer": "An enterprise social networking service for private communication within organizations.",
         "Microsoft Exchange Online": "A hosted messaging application providing email services.",
         "Microsoft SharePoint": "Facilitates collaboration with document sharing, integrated into communication strategies."
-    }
-}
+    ]
 
 }
