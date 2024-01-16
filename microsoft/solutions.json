@@ -168,13 +168,34 @@
         "Windows Performance Monitor": "A tool that measures the performance of a Windows system.",
         "Azure Application Insights": "An extensible Application Performance Management (APM) service for web developers."
 ],
-"Communication": 
+"Communication": [
         "Microsoft Teams": "An all-in-one communication platform integrating chat, voice, and video conferencing.",
         "Outlook": "Primarily for email communications, includes calendar and task management.",
         "Skype for Business": "Integrated into Microsoft Teams for audio and video calls, chat, and conferencing.",
         "Yammer": "An enterprise social networking service for private communication within organizations.",
         "Microsoft Exchange Online": "A hosted messaging application providing email services.",
         "Microsoft SharePoint": "Facilitates collaboration with document sharing, integrated into communication strategies."
+    ],
+"Requirement Analysis": [
+        "Azure DevOps (Boards)": "Provides tools for tracking work and managing projects, useful for capturing and analyzing requirements.",
+        "Microsoft Project": "Offers features for project planning and management, useful in requirement analysis.",
+        "Microsoft Visio": "Helpful for creating flowcharts and diagrams to visualize and analyze requirements.",
+        "Power BI": "Can be used for data analysis to inform and refine requirements.",
+        "Microsoft Dynamics 365 Customer Insights": "Provides customer data platform capabilities for understanding requirements based on customer data."
+],
+"Customer Service": [
+        "Microsoft Dynamics 365 Customer Service": "A CRM solution focused on improving customer service operations.",
+        "Microsoft Teams": "Useful for internal communication and coordination in customer service teams.",
+        "Azure Bot Service and Power Virtual Agents": "For creating chatbots that provide automated customer support.",
+        "Microsoft Power Automate": "Automates repetitive tasks in customer service workflows.",
+        "Outlook Customer Manager": "Part of Office 365, used for managing customer interactions and information."
+],
+"Customer Engagement": [
+        "Microsoft Dynamics 365 Marketing": "Tools for customer segmentation, campaign management, and marketing automation to enhance customer engagement.",
+        "LinkedIn Sales Navigator": "Engages potential customers and leads via the LinkedIn platform.",
+        "Yammer": "Acts as a social networking tool for engaging with customers and gathering feedback.",
+        "Microsoft Dynamics 365 Commerce": "Provides an omnichannel commerce platform for personalized, seamless shopping experiences.",
+        "Microsoft Advertising": "Engages customers through digital advertising on Bing, Microsoft Edge, and other platforms."
     ]
 
 }
