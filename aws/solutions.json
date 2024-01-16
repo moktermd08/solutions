@@ -1,114 +1,128 @@
 {
-  "Documentation": [
-      "AWS Documentation": "A comprehensive resource for AWS product guides, developer guides, and API references."
-  ],
-  "Project Management": [
-      "AWS CodeStar": "Enables you to quickly develop, build, and deploy applications on AWS."
-
-  ],
-  "Frontend": [
-      "Amazon S3": "Offers secure, durable, and highly-scalable object storage. Commonly used for hosting static websites.",
-      "AWS Amplify": "A set of tools and services for building scalable mobile and web applications."
-
-  ],
-  "Backend": [
-
-      "AWS Lambda": "Lets you run code without provisioning or managing servers.",
-      "Amazon EC2": "Provides scalable computing capacity in the AWS cloud."
-
-  ],
-  "Database": [
-      "Amazon RDS": "Makes it easy to set up, operate, and scale a relational database in the cloud.",
-      "Amazon DynamoDB": "A fast and flexible NoSQL database service."
-
-  ],
-  "Content": [
-      "Amazon S3": "Used for storing and retrieving any amount of data at any time.",
-      "Amazon CloudFront": "A fast content delivery network (CDN) service."
-
-  ],
-  "Testing": [
-      "AWS Device Farm": "An app testing service for testing and interacting with your Android, iOS, and web apps."
-
-  ],
-  "Server": [
-
-      "Amazon EC2": "Provides resizable compute capacity in the cloud."
-,
-
-      "AWS Elastic Beanstalk": "An easy-to-use service for deploying and scaling web applications."
-
-  ],
-  "Deployment": [
-      "AWS CodeDeploy": "Automates code deployments to any instance.",
-      "AWS CodePipeline": "A continuous integration and continuous delivery service."
-
-  ],
-  "Maintenance": [
-      "AWS Systems Manager": "Provides visibility and control of your infrastructure on AWS."
-
-  ],
-  "Security": [
-      "Amazon Cognito": "Provides user identity and data synchronization.",
-      "AWS Identity and Access Management (IAM)": "Enables you to manage access to AWS services and resources securely."
-
-  ],
-  "Automation": [
-      "AWS CloudFormation": "Provides a common language for you to describe and provision all the infrastructure resources in your cloud environment.",
-      "Amazon CloudWatch": "Monitors your AWS resources and the applications you run on AWS in real-time."
-
-  ],
-  "Sales": [
-
-      "Amazon Connect": "A cloud-based contact center service."
-
-  ],
-  "Marketing": [
-      "Amazon Pinpoint": "Targets your messages to the right audience for your marketing and engagement campaigns.",
-      "Amazon SES": "A cost-effective, flexible, and scalable email service that enables developers to send mail from within any application."
-
-  ],
-  "Backup": [
-      "AWS Backup": "A centralized backup service that makes it easy to configure and audit the AWS resources."
-
-  ],
-  "API": [
-      "Amazon API Gateway": "Allows developers to create, publish, maintain, monitor, and secure APIs at any scale."
-
-  ],
-  "Apps": [
-      "AWS AppSync": "An enterprise level, fully managed GraphQL service with real-time data synchronization and offline programming features."
-
-  ],
-  "Service Provider Company": [
-      "AWS Partner Network": "A global partner program, focused on helping partners build successful AWS-based businesses or solutions."
-
-  ],
-  "Individual Service Provider": [
-      "AWS Certified Professionals": "Individuals who have demonstrated their skills and proficiency with AWS technology through various certification exams."
-
-  ],
-  "Certifications": [
-      "AWS Certification": "A series of technical certifications offered by AWS for professionals working in cloud computing."
-
-  ],
-  "AI": [
-      "Amazon SageMaker": "Enables developers and data scientists to quickly build, train, and deploy machine learning models at scale.",
-      "AWS DeepLens": "A deep learning-enabled video camera for developers."
-
-  ],
-  "Storage": [
-      "Amazon S3": "Scalable storage in the AWS Cloud.",
-      "Amazon Elastic Block Store (EBS)": "Provides block level storage volumes for use with EC2 instances."
-
-  ],
-  "Operating System": [
-      "Amazon Linux": "A Linux server distribution from Amazon Web Services."
-
-  ],
-  "Devices": [
-      "AWS Snowball": "A petabyte-scale data transport solution that uses secure devices to transfer large amounts of data into and out of the AWS cloud.",
-      "Amazon Echo for AWS IoT": "A voice-controlled smart speaker that connects to the Alexa Voice Service to play music, make calls, set alarms and timers, ask questions, control smart home devices, and more."
-
-  ]
+  "Documentation": {
+    "AWS Documentation": "A comprehensive resource for AWS product guides, developer guides, and API references."
+  },
+  "Project Management": {
+    "AWS CodeStar": "Enables you to quickly develop, build, and deploy applications on AWS."
+  },
+  "Frontend": {
+    "Amazon S3": "Offers secure, durable, and highly-scalable object storage. Commonly used for hosting static websites.",
+    "AWS Amplify": "A set of tools and services for building scalable mobile and web applications."
+  },
+  "Backend": {
+    "AWS Lambda": "Lets you run code without provisioning or managing servers.",
+    "Amazon EC2": "Provides scalable computing capacity in the AWS cloud."
+  },
+  "Database": {
+    "Amazon RDS": "Makes it easy to set up, operate, and scale a relational database in the cloud.",
+    "Amazon DynamoDB": "A fast and flexible NoSQL database service."
+  },
+  "Content": {
+    "Amazon S3": "Used for storing and retrieving any amount of data at any time.",
+    "Amazon CloudFront": "A fast content delivery network (CDN) service."
+  },
+  "Testing": {
+    "AWS Device Farm": "An app testing service for testing and interacting with your Android, iOS, and web apps."
+  },
+  "Server": {
+    "Amazon EC2": "Provides resizable compute capacity in the cloud.",
+    "AWS Elastic Beanstalk": "An easy-to-use service for deploying and scaling web applications."
+  },
+  "Deployment": {
+    "AWS CodeDeploy": "Automates code deployments to any instance.",
+    "AWS CodePipeline": "A continuous integration and continuous delivery service."
+  },
+  "Maintenance": {
+    "AWS Systems Manager": "Provides visibility and control of your infrastructure on AWS."
+  },
+  "Security": {
+    "Amazon Cognito": "Provides user identity and data synchronization.",
+    "AWS Identity and Access Management (IAM)": "Enables you to manage access to AWS services and resources securely."
+  },
+  "Automation": {
+    "AWS CloudFormation": "Provides a common language for you to describe and provision all the infrastructure resources in your cloud environment.",
+    "Amazon CloudWatch": "Monitors your AWS resources and the applications you run on AWS in real-time."
+  },
+  "Sales": {
+    "Amazon Connect": "A cloud-based contact center service."
+  },
+  "Marketing": {
+    "Amazon Pinpoint": "Targets your messages to the right audience for your marketing and engagement campaigns.",
+    "Amazon SES": "A cost-effective, flexible, and scalable email service that enables developers to send mail from within any application."
+  },
+  "Backup": {
+    "AWS Backup": "A centralized backup service that makes it easy to configure and audit the AWS resources."
+  },
+  "API": {
+    "Amazon API Gateway": "Allows developers to create, publish, maintain, monitor, and secure APIs at any scale."
+  },
+  "Apps": {
+    "AWS AppSync": "An enterprise-level, fully managed GraphQL service with real-time data synchronization and offline programming features."
+  },
+  "Service Provider Company": {
+    "AWS Partner Network": "A global partner program, focused on helping partners build successful AWS-based businesses or solutions."
+  },
+  "Individual Service Provider": {
+    "AWS Certified Professionals": "Individuals who have demonstrated their skills and proficiency with AWS technology through various certification exams."
+  },
+  "Certifications": {
+    "AWS Certification": "A series of technical certifications offered by AWS for professionals working in cloud computing."
+  },
+  "AI": {
+    "Amazon SageMaker": "Enables developers and data scientists to quickly build, train, and deploy machine learning models at scale.",
+    "AWS DeepLens": "A deep learning-enabled video camera for developers."
+  },
+  "Storage": {
+    "Amazon S3": "Scalable storage in the AWS Cloud.",
+    "Amazon Elastic Block Store (EBS)": "Provides block-level storage volumes for use with EC2 instances."
+  },
+  "Operating System": {
+    "Amazon Linux": "A Linux server distribution from Amazon Web Services."
+  },
+  "Devices": {
+    "AWS Snowball": "A petabyte-scale data transport solution that uses secure devices to transfer large amounts of data into and out of the AWS cloud.",
+    "Amazon Echo for AWS IoT": "A voice-controlled smart speaker that connects to the Alexa Voice Service to play music, make calls, set alarms and timers, ask questions, control smart home devices, and more."
+  },
+  "Domain": {
+    "Amazon EC2": "Provides scalable computing capacity in the AWS cloud.",
+    "Amazon S3": "Offers secure, durable, and highly-scalable object storage. Commonly used for hosting static websites.",
+    "Amazon RDS": "Makes it easy to set up, operate, and scale a relational database in the cloud.",
+    "Amazon DynamoDB": "A fast and flexible NoSQL database service.",
+    "Amazon Route 53": "A scalable and highly available Domain Name System (DNS) web service.",
+    "AWS Lambda": "Lets you run code without provisioning or managing servers.",
+    "Amazon Elastic Beanstalk": "An easy-to-use service for deploying and scaling web applications."
+  },
+  "Performance": {
+    "Amazon CloudFront": "A content delivery network (CDN) service for fast and secure content delivery.",
+    "Amazon Elasticache": "In-memory caching service to improve the performance of web applications.",
+    "AWS Auto Scaling": "Automatically adjusts the capacity of your AWS resources to maintain application availability.",
+    "Amazon Elastic Load Balancing": "Distributes incoming application traffic across multiple targets."
+  },
+  "Communication": {
+    "Amazon Connect": "A cloud-based contact center service for customer engagement.",
+    "Amazon Chime": "A communication service for online meetings, video conferencing, and team collaboration.",
+    "Amazon Simple Email Service (SES)": "A cost-effective email service for sending and receiving email.",
+    "Amazon Pinpoint": "Targeted messaging service for personalized customer engagement.",
+    "Amazon SNS": "Pub/sub messaging service for building event-driven systems.",
+    "Amazon SQS": "Managed message queuing service for decoupling application components."
+  },
+  "Requirement Analysis": {
+    "AWS Glue": "Fully managed ETL service for data transformation and preparation.",
+    "Amazon QuickSight": "Business intelligence service for creating visualizations and dashboards.",
+    "AWS Data Pipeline": "Orchestration service for moving data between different AWS services.",
+    "AWS Step Functions": "Serverless orchestration service for building workflows."
+  },
+  "Customer Service": {
+    "Amazon Connect": "A cloud-based contact center service for customer engagement.",
+    "Amazon Simple Email Service (SES)": "A cost-effective email service for sending and receiving email.",
+    "AWS Support": "Technical support and assistance from AWS experts.",
+    "AWS Trusted Advisor": "Automated best practice checks and recommendations for optimizing AWS resources."
+  },
+  "Customer Engagement": {
+    "Amazon Personalize": "Machine learning service for personalized recommendations.",
+    "Amazon Pinpoint": "Targeted messaging service for personalized customer engagement.",
+    "Amazon Polly": "Text-to-speech service for adding lifelike voice to applications.",
+    "Amazon Lex": "Conversational AI service for building chatbots and natural language understanding.",
+    "AWS Chatbot": "Integrates AWS services with chat platforms for operations and security automation."
+  }
 }
