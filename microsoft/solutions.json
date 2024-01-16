@@ -3,68 +3,144 @@
         "Microsoft Office 365",
         "Microsoft OneNote for Business",
         "Microsoft SharePoint",
-        "Microsoft Stream"
+        "Microsoft Stream",
+        "Microsoft Visio"
     ],
     "Project Management": [
         "Microsoft Project",
         "Microsoft Planner",
-        "Azure DevOps"
+        "Azure DevOps",
+        "Microsoft Lists"
     ],
     "Frontend": [
         "Microsoft Visual Studio",
-        "Microsoft PowerApps"
+        "Microsoft PowerApps",
+        "Visual Studio Code",
+        "Microsoft FrontPage"
     ],
     "Backend": [
         "Microsoft Azure Functions",
-        "Microsoft Power Automate"
+        "Microsoft Power Automate",
+        "Azure Logic Apps",
+        "Windows Communication Foundation"
     ],
     "Database": [
         "Microsoft SQL Server",
         "Azure SQL Database",
-        "Microsoft Azure Synapse Analytics"
+        "Microsoft Azure Synapse Analytics",
+        "Azure Cosmos DB"
     ],
     "Content": [
         "Microsoft SharePoint",
         "Microsoft Yammer",
-        "Microsoft Teams"
+        "Microsoft Teams",
+        "Microsoft Sway"
     ],
     "Testing": [
         "Microsoft Visual Studio",
-        "Azure Test Plans"
+        "Azure Test Plans",
+        "Microsoft Test Manager"
     ],
     "Server": [
         "Windows Server",
         "Microsoft Azure",
         "Azure Kubernetes Service (AKS)",
-        "Microsoft Windows Virtual Desktop"
+        "Microsoft Windows Virtual Desktop",
+        "Microsoft BizTalk Server"
     ],
     "Deployment": [
         "Azure DevOps",
         "Azure App Service",
-        "Microsoft Endpoint Manager"
+        "Microsoft Endpoint Manager",
+        "Azure Resource Manager"
     ],
     "Maintenance": [
         "Microsoft System Center",
         "Azure Monitor",
-        "Microsoft Endpoint Manager"
+        "Microsoft Endpoint Manager",
+        "Windows Admin Center"
     ],
     "Security": [
         "Microsoft Defender for Endpoint",
         "Azure Active Directory",
         "Microsoft Cloud App Security",
-        "Azure Sentinel"
+        "Azure Sentinel",
+        "Microsoft Identity Manager"
     ],
     "Automation": [
         "Microsoft Power Automate",
         "Azure Logic Apps",
-        "Microsoft Azure Automation"
+        "Microsoft Azure Automation",
+        "Azure Automation"
     ],
     "Sales": [
         "Microsoft Dynamics 365 for Sales",
-        "LinkedIn Sales Navigator"
+        "LinkedIn Sales Navigator",
+        "Microsoft Dynamics CRM"
     ],
     "Marketing": [
         "Microsoft Dynamics 365 Marketing",
-        "LinkedIn Marketing Solutions"
-    ]
+        "LinkedIn Marketing Solutions",
+        "Microsoft Advertising"
+    ],
+    "Backup": [
+        "Azure Backup",
+        "Microsoft System Center Data Protection Manager",
+        "Azure Site Recovery"
+    ],
+    "API": [
+        "Azure API Management",
+        "Microsoft Power Automate (for API-based integrations)",
+        "Microsoft Graph"
+    ],
+    "Apps": [
+        "Microsoft AppSource (for finding and trying apps)",
+        "Microsoft Teams Apps",
+        "Windows Store for Business"
+    ],
+    "Service Provider Company": [
+        "Microsoft Consulting Services",
+        "Microsoft Partner Network",
+        "Azure Managed Services"
+    ],
+    "Individual Service Provider": [
+        "Microsoft Certified Professionals",
+        "Microsoft Certified Trainers",
+        "Microsoft Certified Solution Developer"
+    ],
+    "Certifications": [
+        "Microsoft Certification Programs",
+        "Microsoft Certified: Azure Solutions Architect Expert",
+        "Microsoft Certified: Dynamics 365 Fundamentals",
+        "Microsoft Certified: Security, Compliance, and Identity Fundamentals"
+],
+"AI": [
+        "Azure AI Platform",
+        "Azure Machine Learning",
+        "Azure Cognitive Services",
+        "Microsoft Power Virtual Agents",
+        "Microsoft AI Builder (for Power Platform)",
+        "Azure Bot Service"
+],
+"Storage": [
+        "Microsoft OneDrive for Business",
+        "Azure Storage Solutions",
+        "Azure Blob Storage",
+        "Azure File Storage",
+        "Microsoft StorSimple"
+],
+"Operating System": [
+        "Windows 10",
+        "Windows 11",
+        "Windows Server",
+        "Microsoft Windows Embedded",
+        "Microsoft Hyper-V"
+],
+"Devices": [
+        "Microsoft Surface Line of Products",
+        "Microsoft HoloLens",
+        "Xbox Series X and Series S",
+        "Microsoft Mouse and Keyboard Hardware",
+        "Microsoft Band"
+]
 }
