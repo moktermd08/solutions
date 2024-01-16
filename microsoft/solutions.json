@@ -1,0 +1,70 @@
+{
+    "Documentation": [
+        "Microsoft Office 365",
+        "Microsoft OneNote for Business",
+        "Microsoft SharePoint",
+        "Microsoft Stream"
+    ],
+    "Project Management": [
+        "Microsoft Project",
+        "Microsoft Planner",
+        "Azure DevOps"
+    ],
+    "Frontend": [
+        "Microsoft Visual Studio",
+        "Microsoft PowerApps"
+    ],
+    "Backend": [
+        "Microsoft Azure Functions",
+        "Microsoft Power Automate"
+    ],
+    "Database": [
+        "Microsoft SQL Server",
+        "Azure SQL Database",
+        "Microsoft Azure Synapse Analytics"
+    ],
+    "Content": [
+        "Microsoft SharePoint",
+        "Microsoft Yammer",
+        "Microsoft Teams"
+    ],
+    "Testing": [
+        "Microsoft Visual Studio",
+        "Azure Test Plans"
+    ],
+    "Server": [
+        "Windows Server",
+        "Microsoft Azure",
+        "Azure Kubernetes Service (AKS)",
+        "Microsoft Windows Virtual Desktop"
+    ],
+    "Deployment": [
+        "Azure DevOps",
+        "Azure App Service",
+        "Microsoft Endpoint Manager"
+    ],
+    "Maintenance": [
+        "Microsoft System Center",
+        "Azure Monitor",
+        "Microsoft Endpoint Manager"
+    ],
+    "Security": [
+        "Microsoft Defender for Endpoint",
+        "Azure Active Directory",
+        "Microsoft Cloud App Security",
+        "Azure Sentinel"
+    ],
+    "Automation": [
+        "Microsoft Power Automate",
+        "Azure Logic Apps",
+        "Microsoft Azure Automation"
+    ],
+    "Sales": [
+        "Microsoft Dynamics 365 for Sales",
+        "LinkedIn Sales Navigator"
+    ],
+    "Marketing": [
+        "Microsoft Dynamics 365 Marketing",
+        "LinkedIn Marketing Solutions"
+    ]
+}
