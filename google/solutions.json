@@ -1,1 +1,107 @@
+{
+  "Documentation": {
+    "Google Developers Documentation": "Comprehensive documentation for Google's developer tools, APIs, and cloud services."
+  },
+  "Project Management": {
+    "Google Cloud Console": "A web-based interface for managing Google Cloud projects and resources.",
+    "Google Cloud Scheduler": "A fully managed cron job service for scheduling and automating recurring tasks in the Google Cloud."
+  },
+  "Frontend": {
+    "Google Web Designer": "A free, professional-grade HTML5 authoring tool for creating interactive web content and ads."
+  },
+  "Backend": {
+    "Google Cloud Functions": "A serverless compute service that allows you to run event-driven code without managing infrastructure.",
+    "Google Cloud Composer": "A fully managed workflow orchestration service built on Apache Airflow for authoring, scheduling, and monitoring workflows."
+  },
+  "Database": {
+    "Google Cloud SQL": "A fully managed relational database service for MySQL, PostgreSQL, and SQL Server.",
+    "Google Cloud Bigtable": "A highly scalable NoSQL database service for large analytical and operational workloads."
+  },
+  "Content": {
+    "Google Drive": "A cloud storage and file synchronization service that allows you to store and share files securely.",
+    "Google Sites": "A website creation tool that enables you to build and publish websites easily."
+  },
+  "Testing": {
+    "Google Test Lab for Android": "A cloud-based testing infrastructure for testing Android apps across a wide range of devices and configurations."
+  },
+  "Server": {
+    "Google Cloud Compute Engine": "Provides scalable virtual machine instances for running applications on Google Cloud.",
+    "Google Kubernetes Engine (GKE)": "A managed Kubernetes service for deploying, managing, and scaling containerized applications."
+  },
+  "Deployment": {
+    "Google Cloud Deployment Manager": "A tool to define, deploy, and manage Google Cloud resources using templates."
+  },
+  "Maintenance": {
+    "Google Cloud Operations (formerly Stackdriver)": "A suite of monitoring, logging, and diagnostics tools for Google Cloud resources and applications.",
+    "Google Cloud Config Management": "A tool for managing and enforcing policies across your Google Kubernetes Engine clusters."
+  },
+  "Security": {
+    "Google Cloud Identity and Access Management (IAM)": "Controls access to Google Cloud resources by defining who can do what."
+  },
+  "Automation": {
+    "Google Cloud Pub/Sub": "A messaging service that allows you to send and receive messages between independent applications."
+  },
+  "Sales": {
+    "Google Workspace (formerly G Suite)": "A suite of cloud-based productivity and collaboration applications including Gmail, Google Docs, Google Sheets, and more."
+  },
+  "Marketing": {
+    "Google Ads": "An online advertising platform to create and manage ads that appear in Google search results and across the web.",
+    "Google Analytics": "A web analytics service for tracking and analyzing website and app performance."
+  },
+  "Backup": {
+    "Google Cloud Storage": "A scalable object storage service for storing and retrieving data in Google Cloud."
+  },
+  "API": {
+    "Google Cloud Endpoints": "A platform for developing, deploying, and managing APIs on Google Cloud."
+  },
+  "Apps": {
+    "Google Workspace Marketplace": "A collection of add-ons and integrations for Google Workspace applications."
+  },
+  "Service Provider Company": {
+    "Google Cloud Partner Program": "A program for companies that provide services and solutions using Google Cloud products."
+  },
+  "Individual Service Provider": {
+    "Google Cloud Certification": "Certifications offered by Google for individuals demonstrating expertise in Google Cloud technologies."
+  },
+  "Certifications": {
+    "Google Cloud Certification": "A range of professional certifications offered by Google to validate skills and expertise in Google Cloud."
+  },
+  "AI": {
+    "Google Cloud AI Platform": "A machine learning platform for building, deploying, and managing machine learning models."
+  },
+  "Storage": {
+    "Google Cloud Storage": "A scalable and secure cloud storage service for object storage and data archival."
+  },
+  "Operating System": {
+    "Chrome OS": "A lightweight, cloud-centric operating system developed by Google for use on Chromebooks and Chromeboxes."
+  },
+  "Devices": {
+    "Google Pixel": "A line of smartphones, tablets, and laptops developed by Google.",
+    "Google Nest": "A brand of smart home products including thermostats, cameras, speakers, and displays."
+  },
+  "Domain": {
+    "Google Domains": "A domain registration service provided by Google."
+  },
+  "Performance": {
+    "Google PageSpeed Insights": "A tool for analyzing and optimizing the performance of web pages."
+  },
+  "Communication": {
+    "Google Meet": "A video conferencing and online meeting service for business and personal use.",
+    "Google Chat": "A messaging platform for teams and organizations to collaborate in real-time."
+  },
+  "Requirement Analysis": {
+    "Google Sheets": "A spreadsheet application for creating and analyzing data, useful for requirement analysis.",
+    "Google Forms": "A tool for creating surveys and forms to gather and analyze information.",
+    "Google Data Studio": "A data visualization and reporting tool for creating interactive and shareable dashboards."
+  },
+  "Customer Service": {
+    "Google Workspace (formerly G Suite)": "Includes Gmail, Google Chat, and Google Meet for communication and collaboration in customer service teams.",
+    "Google Voice": "A telecommunications service that provides phone numbers and call management features."
+  },
+  "Customer Engagement": {
+    "Google Ads": "Engages customers through online advertising across various platforms.",
+    "Google Analytics": "Provides insights into customer behavior and engagement on websites and apps.",
+    "Google My Business": "A platform for managing business listings and engaging with customers on Google Search and Maps."
+  }
+}
 
