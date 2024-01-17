@@ -70,5 +70,27 @@
     "Storage": ["Amazon Simple Storage Service (S3)", "Amazon Elastic Block Store (EBS)", "Amazon Elastic File System (EFS)", "Amazon FSx", "Amazon S3 Glacier", "AWS Storage Gateway", "AWS Backup", "Amazon S3 Glacier Deep Archive"],
     "Compute": ["Amazon EC2", "Amazon EC2 Auto Scaling", "Amazon Elastic Container Service (ECS)", "Amazon Elastic Kubernetes Service (EKS)", "AWS Lambda", "AWS Elastic Beanstalk", "AWS Serverless Application Repository", "AWS Batch", "AWS Outposts", "AWS Wavelength", "Amazon Lightsail"],
     "Database": ["Amazon RDS", "Amazon DynamoDB", "Amazon ElastiCache", "Amazon Neptune", "Amazon Redshift", "Amazon Quantum Ledger Database (QLDB)", "Amazon DocumentDB", "Amazon Keyspaces", "Amazon Timestream", "AWS Database Migration Service"]
+    "Developer Tools and SDKs": ["AWS SDK for Java", "AWS SDK for Python (Boto3)", "AWS SDK for JavaScript", "AWS SDK for PHP", "AWS SDK for .NET", "AWS SDK for Ruby", "AWS SDK for Go", "AWS SDK for C++", "AWS SDK for iOS", "AWS SDK for Android", "AWS Amplify", "AWS CLI", "AWS CloudShell", "AWS Cloud Development Kit (CDK)", "AWS CodeBuild", "AWS CodeCommit", "AWS CodeDeploy", "AWS CodePipeline", "AWS CodeStar", "AWS Cloud9", "AWS X-Ray", "AWS SAM (Serverless Application Model)", "AWS Tools for PowerShell", "AWS Fault Injection Simulator"],
+    "Monitoring and Management": ["Amazon CloudWatch", "AWS Auto Scaling", "AWS Control Tower", "AWS Systems Manager", "AWS Trusted Advisor", "AWS Health Dashboard", "AWS Managed Services", "AWS OpsWorks", "AWS Personal Health Dashboard", "AWS Service Catalog", "AWS Config", "AWS CloudTrail", "AWS CloudFormation"],
+    "Security and Identity Services": ["AWS Identity and Access Management (IAM)", "Amazon GuardDuty", "AWS Shield", "AWS WAF", "Amazon Inspector", "AWS Key Management Service (KMS)", "AWS CloudHSM", "AWS Directory Service", "AWS Firewall Manager", "AWS Artifact", "AWS Certificate Manager", "AWS Secrets Manager", "Amazon Macie", "AWS Security Hub", "AWS Single Sign-On (SSO)", "AWS Resource Access Manager", "AWS IAM Access Analyzer"],
+    "Networking and Content Delivery": ["Amazon VPC", "Amazon CloudFront", "Amazon Route 53", "AWS Direct Connect", "AWS Global Accelerator", "AWS Transit Gateway", "Amazon API Gateway", "AWS App Mesh", "AWS Cloud Map", "Amazon PrivateLink", "Elastic Load Balancing", "AWS VPN", "AWS Network Firewall"],
+    "Storage Services": ["Amazon Simple Storage Service (S3)", "Amazon Elastic Block Store (EBS)", "Amazon Elastic File System (EFS)", "Amazon FSx for Windows File Server", "Amazon FSx for Lustre", "Amazon S3 Glacier", "AWS Storage Gateway", "AWS Backup", "AWS Snow Family", "AWS DataSync", "Amazon S3 Glacier Deep Archive"],
+    "Database Services": ["Amazon RDS", "Amazon DynamoDB", "Amazon ElastiCache", "Amazon Neptune", "Amazon Redshift", "Amazon Aurora", "Amazon DocumentDB (with MongoDB compatibility)", "Amazon Quantum Ledger Database (QLDB)", "Amazon Timestream", "AWS Database Migration Service", "AWS Glue DataBrew"],
+    "Compute Services": ["Amazon EC2", "AWS Lambda", "Amazon Elastic Container Service (ECS)", "Amazon Elastic Kubernetes Service (EKS)", "AWS Fargate", "AWS Elastic Beanstalk", "Amazon EC2 Spot Instances", "AWS Batch", "AWS Outposts", "AWS Wavelength", "Amazon Lightsail", "AWS Nitro Enclaves"],
+    "Machine Learning and Analytics": ["Amazon SageMaker", "AWS DeepRacer", "AWS DeepLens", "AWS DeepComposer", "Amazon Rekognition", "Amazon Textract", "Amazon Comprehend", "Amazon Forecast", "Amazon Personalize", "Amazon Lex", "Amazon Polly", "Amazon Transcribe", "Amazon Translate", "AWS Glue", "Amazon Athena", "Amazon EMR", "Amazon QuickSight", "AWS Lake Formation", "Amazon Redshift", "Amazon Managed Streaming for Apache Kafka (MSK)", "Amazon Kinesis"],
+    "Internet of Things (IoT)": ["AWS IoT Core", "AWS IoT Greengrass", "AWS IoT 1-Click", "AWS IoT Analytics", "AWS IoT Device Management", "AWS IoT Device Defender", "AWS IoT Events", "AWS IoT SiteWise", "AWS IoT Things Graph", "Amazon FreeRTOS"],
+    "Migration and Transfer": ["AWS Migration Hub", "AWS Application Discovery Service", "AWS Database Migration Service", "AWS Server Migration Service", "AWS Snow Family", "AWS DataSync", "AWS Transfer Family"],
+    "Blockchain": ["Amazon Managed Blockchain", "Amazon Quantum Ledger Database (QLDB)"],
+    "Application Integration": ["Amazon Simple Queue Service (SQS)", "Amazon Simple Notification Service (SNS)", "AWS Step Functions", "Amazon EventBridge", "Amazon AppFlow", "Amazon MQ", "Amazon Simple Workflow Service (SWF)", "AWS AppSync"],
+    "Customer Engagement": ["Amazon Connect", "Amazon Pinpoint", "Amazon Simple Email Service (SES)", "AWS Chatbot"],
+    "Business Applications": ["Amazon Chime", "Amazon WorkMail", "Amazon Honeycode"],
+    "End User Computing": ["Amazon WorkSpaces", "Amazon AppStream 2.0", "Amazon WorkDocs", "Amazon WorkLink"],
+    "Game Tech": ["Amazon GameLift", "Amazon Lumberyard"],
+    "Media Services": ["AWS Elemental MediaLive", "AWS Elemental MediaConvert", "AWS Elemental MediaPackage", "AWS Elemental MediaStore", "AWS Elemental MediaTailor", "Amazon Interactive Video Service (IVS)", "AWS Elemental MediaConnect"],
+    "Quantum Technologies": ["Amazon Braket"],
+    "Robotics": ["AWS RoboMaker"],
+    "Satellite": ["AWS Ground Station"],
+    "AR & VR": ["Amazon Sumerian"]
 }
+
 
